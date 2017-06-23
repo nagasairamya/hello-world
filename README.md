@@ -1,4 +1,10 @@
 # hello-world
 just another repository
-Adding some more lines to readme.md file
-this is hello world program edited by Ramya
+
+/* This is the sample hello world program */
+
+#include<stdio.h>
+main()
+{
+printf("Hello world");
+}

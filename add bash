@@ -1,0 +1,6 @@
+#! /bin/sh
+echo enter the numbers to add them
+read a
+read b
+sum= $($a+$b)
+echo the sum of $a and $b is $sum

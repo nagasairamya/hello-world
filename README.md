@@ -17,4 +17,7 @@ printf("the sum of %d and %d is %d", &a, &b, &c);
 
 echo this is my first branch from the command line
 
-the read script is added from the script as baseline
+the read script is added from the script as baselinie
+
+trying to rebase with master
+
